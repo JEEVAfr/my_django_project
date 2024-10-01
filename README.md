@@ -1,7 +1,7 @@
 # Django REST Framework (DRF) Project
 
 ## Overview
-This project implements a RESTful API using Django REST Framework (DRF) for managing products, categories, and subcategories in an e-commerce application. The API provides CRUD operations and search/filter functionality for each model while ensuring that only active records are returned.
+This project implements a RESTful API using Django REST Framework (DRF) for managing products, categories, and subcategories. The API provides CRUD operations and search/filter functionality for each model while ensuring that only active records are returned.
 
 ## Models
 The project consists of three main models:
